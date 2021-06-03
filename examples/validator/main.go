@@ -5,9 +5,9 @@ package main
 import (
 	"log"
 
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gflag"
-	"github.com/octago/sflags/validator/govalidator"
+	"github.com/Prendo93/sflags"
+	"github.com/Prendo93/sflags/gen/gflag"
+	"github.com/Prendo93/sflags/validator/govalidator"
 )
 
 type config struct {

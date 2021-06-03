@@ -3,8 +3,8 @@ package gkingpin
 import (
 	"unicode/utf8"
 
+	"github.com/Prendo93/sflags"
 	"github.com/alecthomas/kingpin"
-	"github.com/octago/sflags"
 )
 
 type flagger interface {

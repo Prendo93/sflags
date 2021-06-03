@@ -9,9 +9,9 @@ import (
 	"regexp"
 	"time"
 
+	"github.com/Prendo93/sflags"
+	"github.com/Prendo93/sflags/gen/gpflag"
 	"github.com/davecgh/go-spew/spew"
-	"github.com/octago/sflags"
-	"github.com/octago/sflags/gen/gpflag"
 )
 
 type httpConfig struct {
